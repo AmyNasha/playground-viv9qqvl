@@ -16,12 +16,12 @@
 <h4>Eclipse IDE Workbench</h4>
 <p>To open the Eclipse program, you need to:
 <ol>
-  <li>Start Eclipse by double-click the eclipse.exe file in the directory which you unzipped the Eclipse program before or double click your created eclipse shortcut. It will ask you to specify a default workspace to store all your Java programs later.
-At this point, you can choose directory and create new folder for your workspace. Also, instead of default name “workspace”, you can rename it. To choose or create new folder for workspace in specified directory, do the steps follows:</li>
+  <li>Start your Eclipse. It will ask you to specify a default workspace to store all your Java programs later. At this point, you can choose directory and create new folder for your workspace. Also, instead of default name “Workspace”, you can rename it. To choose or create new folder for workspace in specified directory, do the steps follows:</li>
 <ol>
   <li>Click Browse</li>
   <li>Use existing folder/directory, choose specified folder and then click Ok. Or</li>
   <li>Create new folder, choose folder where you intend to create your workspace and then click Make New Folder and named your new folder. Click Ok to finish.</li>
 </ol>
   <li>After you choose the workspace, a “Workbench” window will be opened and a Java perspective is displayed with only the “Welcome” screen visible. A “Workbench” window consists of one or more perspectives. A perspective contains editors and views, such as the Project Explorer.</li>
+  <li>Click on the Workbench icon and you should be seeing the Java perspective.</li>
   </ol>

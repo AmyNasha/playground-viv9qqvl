@@ -8,4 +8,5 @@
   
   1. Download Eclipse installer from http://www.eclipse.org/downloads/. Find the suitable version of your Eclipse IDE to your computer and operating system. Eclipse is hosted on many mirrors around the world. Please select the one closest to you and start to download the Installer.
   2. Start the Eclipse Installer executable once the download has finished.
-  3. The new Eclipse Installer shows the packages available to Eclipse users. You can search for the package you want to install or scroll through the list. Select and click on the package you want to install. For this class, choose "<b>Eclipse IDE for Java Developers</b>" You have successfully installed the latest version of the Eclipse IDE and ready to be explored!
+  3. The new Eclipse Installer shows the packages available to Eclipse users. You can search for the package you want to install or scroll through the list. Select and click on the package you want to install. For this class, choose "<b>Eclipse IDE for Java Developers</b>". 
+  4. Specify the folder where you want Eclipse to be installed. The default folder will be in your User directory. Select the ‘Install’ button to begin the installation. You have successfully installed the latest version of the Eclipse IDE and ready to be explored!

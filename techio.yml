@@ -1,4 +1,6 @@
 title: SSK3100 Lab Session
 plan:
 - title: Lab 01: Introduction to the Lab
-  statement: statement.md
+  statement: lab01.md
+- title: Lab 02:
+
